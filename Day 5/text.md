@@ -51,7 +51,7 @@ else:
     print("p is not greater than 5.")
 Output
 p is greater than 5.
-Escape Sequence Characters
+### Escape Sequence Characters
 To insert characters that cannot be directly used in a string, we use an escape sequence character.
 
 An escape sequence character is a backslash \ followed by the character you want to insert.
@@ -64,11 +64,11 @@ More on Print statement
 The syntax of a print statement looks something like this:
 
 print(object(s), sep=separator, end=end, file=file, flush=flush)
-Other Parameters of Print Statement
-object(s): Any object, and as many as you like. Will be converted to string before printed
-sep='separator': Specify how to separate the objects, if there is more than one. Default is ' '
-end='end': Specify what to print at the end. Default is '\n' (line feed)
-file: An object with a write method. Default is sys.stdout
+## Other Parameters of Print Statement
+- object(s): Any object, and as many as you like. Will be converted to string before printed
+- sep='separator': Specify how to separate the objects, if there is more than one. Default is ' '
+- end='end': Specify what to print at the end. Default is '\n' (line feed)
+- file: An object with a write method. Default is sys.stdout
 Parameters 2 to 4 are optional
 
 ### Next Lesson>>
