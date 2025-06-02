@@ -14,13 +14,13 @@ This repo is a personal log to track my progress and reinforce my learning.
 
 ## ✅ Progress Tracker
 
-| Day | Topic                       | Status  |
-|-----|-----------------------------|---------|
-| 1   | Hello World, Input & Output | ✅ Done |
-| 2   | Variables and Data Types    | ✅ Done |
-| 3   | Strings in Python           | ✅ Done |
-| 4   | ...                         | 🔜 Coming Soon |
-| 5   | ...                         | 🔜 Coming Soon |
+| Day | Topic                                 | Status  |
+|-----|---------------------------------------|---------|
+| 1   | Hello World, Input & Output           | ✅ Done |
+| 2   | Variables and Data Types              | ✅ Done |
+| 3   | Strings in Python                     | ✅ Done |
+| 4   | Our First Program                     | ✅ Done |
+| 5   | Comments, Escape sequence & Print     | ✅ Done |
 | ... | ...                         | 🔜 In Progress |
 
 > I’ll keep updating this table as I move forward!
