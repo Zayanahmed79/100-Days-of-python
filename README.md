@@ -27,8 +27,8 @@ This repo is a personal log to track my progress and reinforce my learning.
 | 9   | Typecasting in python                 | ✅ Done |
 | 10  | Taking User Input in python           | ✅ Done |
 | 11  | What are strings?                     | ✅ Done |
-| 13  | St-------                             | ✅ Done |
-| 12  | ----------s                           | ✅ Done |
+| 12  | String Slicing & Operations on String | ✅ Done |
+| 13  | ----------s                           | ✅ Done |
 | 14  | O------m                              | ✅ Done |
 | ... | ...                                   | 🔜 In Progress |
 
