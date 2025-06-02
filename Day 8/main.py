@@ -1,12 +1,3 @@
-# print(5+6)
-# print(15-6)
-# print(15*6)
-# print(15/6)
-# print(15//6)
-# print(5%3)
-# print(2**4)
-
-
 # Simple Calculator Program
 def add(x, y):
     return x + y
