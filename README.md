@@ -21,7 +21,17 @@ This repo is a personal log to track my progress and reinforce my learning.
 | 3   | Strings in Python                     | ✅ Done |
 | 4   | Our First Program                     | ✅ Done |
 | 5   | Comments, Escape sequence & Print     | ✅ Done |
-| ... | ...                         | 🔜 In Progress |
+| 6   | Variables and Data Types              | ✅ Done |
+| 7   | Operators                             | ✅ Done |
+| 8   | Create a Calculator Solution          | ✅ Done |
+| 9   | Typecasting in python                 | ✅ Done |
+| 10  | Taking User Input in python           | ✅ Done |
+| 11  | What are strings?                     | ✅ Done |
+| 13  | St-------                             | ✅ Done |
+| 12  | ----------s                           | ✅ Done |
+| 14  | O------m                              | ✅ Done |
+| ... | ...                                   | 🔜 In Progress |
+
 
 > I’ll keep updating this table as I move forward!
 
