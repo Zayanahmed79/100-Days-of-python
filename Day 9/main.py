@@ -1,10 +1,13 @@
 # Explicit type Casting
 
-string = "15"
-number = 7
-string_number = int(string) #throws an error if the string is not a valid integer
-sum= number + string_number
+string = "10" 
+# converting string to int
+number_sting = int(string)
+number = 16
+sum  = number_sting + number
+# printing the sum
 print("The Sum of both the numbers is: ", sum)
+
 
 
 # Python automatically converts
