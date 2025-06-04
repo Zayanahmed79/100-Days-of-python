@@ -47,7 +47,44 @@ This repo is a personal log to track my progress and reinforce my learning.
 | 29  | Docstrings in python                  | ✅ Done |
 | 30  | Recursion                             | ✅ Done |
 | 31  | Sets                                  | ✅ Done |
-| 32  | O------m                              | ✅ Done |
+| 33  | Set Methods                           | ✅ Done |
+| 34  | Set Methods                           | ✅ Done |
+| 35  | Set Methods                           | ✅ Done |
+| 36  | Set Methods                           | ✅ Done |
+| 37  | Set Methods                           | ✅ Done |
+| 38  | Set Methods                           | ✅ Done |
+| 39  | Set Methods                           | ✅ Done |
+| 40  | Set Methods                           | ✅ Done |
+| 41  | Set Methods                           | ✅ Done |
+| 42  | Set Methods                           | ✅ Done |
+| 43  | Set Methods                           | ✅ Done |
+| 44  | Set Methods                           | ✅ Done |
+| 45  | Set Methods                           | ✅ Done |
+| 46  | Set Methods                           | ✅ Done |
+| 47  | Set Methods                           | ✅ Done |
+| 48  | Set Methods                           | ✅ Done |
+| 49  | Set Methods                           | ✅ Done |
+| 50  | Set Methods                           | ✅ Done |
+| 51  | Set Methods                           | ✅ Done |
+| 52  | Set Methods                           | ✅ Done |
+| 53  | Set Methods                           | ✅ Done |
+| 54  | Set Methods                           | ✅ Done |
+| 55  | Set Methods                           | ✅ Done |
+| 56  | Set Methods                           | ✅ Done |
+| 57  | Set Methods                           | ✅ Done |
+| 58  | Set Methods                           | ✅ Done |
+| 59  | Set Methods                           | ✅ Done |
+| 60  | Set Methods                           | ✅ Done |
+| 61  | Set Methods                           | ✅ Done |
+| 62  | Set Methods                           | ✅ Done |
+| 63  | Set Methods                           | ✅ Done |
+| 64  | Set Methods                           | ✅ Done |
+| 65  | Set Methods                           | ✅ Done |
+| 66  | Set Methods                           | ✅ Done |
+| 67  | Set Methods                           | ✅ Done |
+| 68  | Set Methods                           | ✅ Done |
+| 69  | Set Methods                           | ✅ Done |
+| 70  | Set Methods                           | ✅ Done |
 | ... | ...                                   | 🔜 In Progress |
 
 
