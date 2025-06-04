@@ -28,8 +28,26 @@ This repo is a personal log to track my progress and reinforce my learning.
 | 10  | Taking User Input in python           | ✅ Done |
 | 11  | What are strings?                     | ✅ Done |
 | 12  | String Slicing & Operations on String | ✅ Done |
-| 13  | ----------s                           | ✅ Done |
-| 14  | O------m                              | ✅ Done |
+| 13  | String methods                        | ✅ Done |
+| 14  | if-else Statements                    | ✅ Done |
+| 15  | Excersice 2: Good Morning Sir         | ✅ Done |
+| 16  | Match Case Statements                 | ✅ Done |
+| 17  | Introduction to Loops                 | ✅ Done |
+| 18  | Python while Loop                     | ✅ Done |
+| 19  | Break n Continue statement            | ✅ Done |
+| 20  | Python Functions                      | ✅ Done |
+| 21  | Function Arguments n return statement | ✅ Done |
+| 22  | Python Lists                          | ✅ Done |
+| 23  | List Methods                          | ✅ Done |
+| 24  | O------m                              | ✅ Done |
+| 25  | O------m                              | ✅ Done |
+| 26  | O------m                              | ✅ Done |
+| 27  | O------m                              | ✅ Done |
+| 28  | O------m                              | ✅ Done |
+| 29  | O------m                              | ✅ Done |
+| 30  | O------m                              | ✅ Done |
+| 31  | O------m                              | ✅ Done |
+| 32  | O------m                              | ✅ Done |
 | ... | ...                                   | 🔜 In Progress |
 
 
