@@ -46,7 +46,7 @@ This repo is a personal log to track my progress and reinforce my learning.
 | 28  | String formatting in python           | ✅ Done |
 | 29  | Docstrings in python                  | ✅ Done |
 | 30  | Recursion                             | ✅ Done |
-| 31  | O------m                              | ✅ Done |
+| 31  | Sets                                  | ✅ Done |
 | 32  | O------m                              | ✅ Done |
 | ... | ...                                   | 🔜 In Progress |
 
