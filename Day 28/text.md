@@ -1,4 +1,4 @@
-String formatting in python
+# String formatting in python
 String formatting can be done in python using the format method.
 
 txt = "For only {price:.2f} dollars!"

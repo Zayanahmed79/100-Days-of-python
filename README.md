@@ -39,13 +39,13 @@ This repo is a personal log to track my progress and reinforce my learning.
 | 21  | Function Arguments n return statement | ✅ Done |
 | 22  | Python Lists                          | ✅ Done |
 | 23  | List Methods                          | ✅ Done |
-| 24  | O------m                              | ✅ Done |
-| 25  | O------m                              | ✅ Done |
-| 26  | O------m                              | ✅ Done |
-| 27  | O------m                              | ✅ Done |
-| 28  | O------m                              | ✅ Done |
-| 29  | O------m                              | ✅ Done |
-| 30  | O------m                              | ✅ Done |
+| 24  | Python Tuples                         | ✅ Done |
+| 25  | Manipulating Tuples                   | ✅ Done |
+| 26  | Good Morning Sir(Solution)            | ✅ Done |
+| 27  | Create a program the user like KBC    | ✅ Done |
+| 28  | String formatting in python           | ✅ Done |
+| 29  | Docstrings in python                  | ✅ Done |
+| 30  | Recursion                             | ✅ Done |
 | 31  | O------m                              | ✅ Done |
 | 32  | O------m                              | ✅ Done |
 | ... | ...                                   | 🔜 In Progress |
