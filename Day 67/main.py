@@ -1,33 +1,22 @@
-#Class variable
-class MyClass:
-    class_variable = 0
+class Library:
+  def __init__(self):
+    self.noBooks = 0
+    self.books = []
     
-    def __init__(self):
-        MyClass.class_variable += 1
-        
-    def print_class_variable(self):
-        print(MyClass.class_variable)
-        
+  def addBook(self, book):
+    self.books.append(book)
+    self.noBooks = len(self.books)
 
-obj1 = MyClass()
-obj2 = MyClass()
-
-obj1.print_class_variable() # Output: 2
-obj2.print_class_variable() # Output: 2
+  def showInfo(self):
+    print(f"The library has {self.noBooks} books. The books are")
+    for book in self.books:
+      print(book)
 
 
-
-
-# instance variable
-class MyClass:
-    def __init__(self, name):
-        self.name = name
-        
-    def print_name(self):
-        print(self.name)
-
-obj1 = MyClass("John")
-obj2 = MyClass("Jane")
-
-obj1.print_name() # Output: John
-obj2.print_name() # Output: Jane
+l1 = Library()
+l1.addBook("Harry Potter1")
+l1.addBook("Harry Potter2")
+l1.addBook("Harry Potter3")
+l1.showInfo()
+    
+  
