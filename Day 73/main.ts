@@ -6,3 +6,6 @@ print(repr(e))
 # print(e.name)
 # print(len(e))
 e()
+
+
+__init__ method
